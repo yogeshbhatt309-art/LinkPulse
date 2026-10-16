@@ -1,0 +1,5 @@
+[functions.redirect]
+verify_jwt = false
+
+[functions.upload-zip]
+verify_jwt = false
